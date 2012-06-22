@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.0
+Created-By: NetBeans IDE
+Specified-By: JTattoo.jarContent
+Main-Class: com.jtattoo.plaf.About
+

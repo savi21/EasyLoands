@@ -1,0 +1,9 @@
+<config>
+	<dbconnection>
+		<driver></driver>
+		<name></name>
+		<url></url>
+		<user></user>
+		<password></password>
+	</dbconnection>
+</config>
